@@ -1,0 +1,63 @@
+div.title {
+	text-align: center;
+	font-size: 175%
+}
+
+div.container{
+	position: relative;
+	background-color: #D3D3D3;
+	border: 5px solid;
+	margin: 10px;
+}
+div.subhead1{
+	position: absolute;
+	background-color: #00BFFF;
+	top:0px;
+	right:0px;
+	border: 2px solid;
+	font-size: 125%;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 2em;
+	padding-right: 2em;
+
+}
+
+div.subhead2{
+	position: absolute;
+	background-color: #00FF00;
+	top:0px;
+	right:0px;
+	border: 2px solid;
+	font-size: 125%;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 2em;
+	padding-right: 2em;
+
+}
+
+div.subhead3{
+	float: right;
+	position: absolute;
+	top:0px;
+	right:0px;
+	background-color: #DC143C;
+	border: 2px solid;
+	font-size: 125%;
+	width: 10%;
+	text-align: center;
+
+}
+
+p {
+	clear: both;
+}
+
+@media (max-width: ) {
+
+}
+@media (min-width: 992px; ) {
+	
+}
+/*lecture 24 for responsive*/
